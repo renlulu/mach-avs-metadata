@@ -2,6 +2,6 @@
     "name": "AltLayer Mach AVS",
     "website:": "https://altlayer.io/",
     "description": "AltLayer Mach AVS is a fast finality layer for Ethereum rollups. In Mach AVS , operators will run verifier nodes for rollups, monitor the rollup for fraudulent behavior, and submit a fraudulent alert to Mach AVS. Fraudulent alert can then be confirmed via sufficient quorum or ZK proofs.",
-    "logo": "https://raw.githubusercontent.com/renlulu/mach-avs-metadata/main/alt.png",
+    "logo": "https://avs-info.s3.us-west-2.amazonaws.com/alt.png",
     "twitter": "https://twitter.com/alt_layer"
   }
